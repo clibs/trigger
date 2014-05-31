@@ -1,0 +1,9 @@
+*~
+*.a
+*.bak
+*.dSYM
+*.o
+*.swo
+*.swp
+/build
+/example
