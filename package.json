@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "list": "0.0.6",
+    "jonathanmarvens/uthash": "1.9.9"
+  },
+
+  "description": "Simple event handling library.",
+
+  "keywords": [
+    "event",
+    "fire",
+    "firing",
+    "handle",
+    "handling",
+    "observe",
+    "publish",
+    "subscribe",
+    "trigger",
+    "triggering"
+  ],
+
+  "license": "MIT",
+  "name": "trigger",
+  "repo": "clibs/trigger",
+
+  "src": [
+    "src/trigger.c",
+    "src/trigger.h"
+  ],
+
+  "version": "0.0.1"
+}
